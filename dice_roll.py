@@ -1,4 +1,4 @@
-# dice rolling library, nigel griffin, febuary 18, 2021, 1:52pm
+# dice rolling library, nigel griffin, febuary 18, 2021, 2:28pm
 
 import random
 import time
